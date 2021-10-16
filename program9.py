@@ -11,6 +11,7 @@ def bubble_sort(sequence):
 
 
 sequence = [9,4,3,7,1,5,2]
-print(bubble_sort(sequence))
+bubble_sort(sequence)
+print(sequence)
 
                  
